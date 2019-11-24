@@ -48,9 +48,11 @@ Trained a DCGAN on a dataset of faces.Then new images of faces that look as real
 
 RNN network is trained to generate Seinfeld TV scripts. The training data are part of the Seinfeld dataset of scripts from 9 seasons. 
 <figure>
+    <p align="center">    
     <kbd>
     <img  src="./images/generated_tv_script.png" alt="Drawing" style="height: 600 width: 1000px;"/>
     </kbd>
+    </p>    
 <p align="center">    
     Generated fake TV script
 </p>
@@ -72,16 +74,12 @@ Example results:
 <td>
 
 <figure>
-    <kbd>
-    <img  src="./images/review1.JPG" alt="Drawing" style="width: 450px;"/>
-    </kbd>        
+    <img  src="./images/review1.JPG" alt="Drawing" style="width: 450px;"/>    
     <p align="center">Review Predicted as Positive</p>
 </figure></td>
 
 <td><figure>    
-    <kbd>
     <img  src="./images/review2.JPG" alt="Drawing" style="width: 450px;"/>
-    </kbd>
     <p align="center">Review Predicted as Negative</p>
 </figure>
   </td>  </tr></table>
