@@ -44,13 +44,13 @@ Trained a DCGAN on a dataset of faces.Then new images of faces that look as real
 
 
 RNN network is trained to generate Seinfeld TV scripts. The training data are part of the Seinfeld dataset of scripts from 9 seasons. 
-
+<p align="center">
 <figure>
     <kbd>
     <img  src="./images/generated_tv_script.png" alt="Drawing" style="height: 600 width: 1000px;"/>
     </kbd>
-    <center>Generated fake TV script</center>
-
+    Generated fake TV script
+</p>
 
 ### [Project 4: CNN Model Deployment](https://github.com/darrickz/Deep_Learning/tree/master/DLND-sagemaker-deployment)
 
