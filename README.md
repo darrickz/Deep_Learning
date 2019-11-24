@@ -25,7 +25,7 @@ Built Convolutional Neural Networks (CNN) to classify 133 dog breeds using trans
 
 <td><figure>    
     <img  src="./images/dog_breed1.jpg" alt="Drawing" style="width: 450px;"/>
-    <p align="center">Closest Predicted Dog Breed</p>
+    <p align="center">Predicted to the Closest Dog Breed</p>
 </figure>
   </td>  </tr></table>
 
