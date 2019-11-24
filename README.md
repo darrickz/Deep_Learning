@@ -19,16 +19,14 @@ Built Convolutional Neural Networks (CNN) to classify 133 dog breeds using trans
 <figure>
     <kbd>
     <img  src="./images/dog_breed.jpg" alt="Drawing" style="width: 450px;"/>
-        
+    </kbd>        
     <center>Predicted Dog Breed</center>
-    </kbd>    
 </figure></td>
 
 <td><figure>    
     <kbd>
     <img  src="./images/dog_breed1.jpg" alt="Drawing" style="width: 450px;"/>
     </kbd>
-    
     <center>Closest Predicted Dog Breed</center>
 </figure>
   </td>  </tr></table>
@@ -40,8 +38,9 @@ Built Convolutional Neural Networks (CNN) to classify 133 dog breeds using trans
 Trained a DCGAN on a dataset of faces.Then new images of faces that look as realistic as possble are generated:
 
 <figure>
+    <kbd>
     <img  src="./images/face_generation.png" alt="Drawing" style="height: 500 width: 1000px;"/>
-    
+    </kbd>
     <center>Generated Face</center>
 
 
@@ -52,7 +51,8 @@ RNN network is trained to generate Seinfeld TV scripts. The training data are pa
 
 <figure>
     <kbd>
-    <img  src="./images/generated_tv_script.png" alt="Drawing" style="height: 500 width: 1000px;"/></kbd>
+    <img  src="./images/generated_tv_script.png" alt="Drawing" style="height: 500 width: 1000px;"/>
+    </kbd>
     <center>Generated fake TV script</center>
 
 
@@ -71,7 +71,9 @@ Example results:
 <td>
 
 <figure>
+    <kbd>
     <img  src="./images/review1.JPG" alt="Drawing" style="width: 450px;"/>
+    </kbd>        
     <center>Lidar Obstcle Detection</center>
 </figure></td>
 
