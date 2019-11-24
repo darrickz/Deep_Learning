@@ -17,16 +17,12 @@ Built Convolutional Neural Networks (CNN) to classify 133 dog breeds using trans
 <td>
 
 <figure>
-    <kbd>
     <img  src="./images/dog_breed.jpg" alt="Drawing" style="width: 450px;"/>
-    </kbd>        
     <center>Predicted Dog Breed</center>
 </figure></td>
 
 <td><figure>    
-    <kbd>
     <img  src="./images/dog_breed1.jpg" alt="Drawing" style="width: 450px;"/>
-    </kbd>
     <center>Closest Predicted Dog Breed</center>
 </figure>
   </td>  </tr></table>
@@ -51,7 +47,7 @@ RNN network is trained to generate Seinfeld TV scripts. The training data are pa
 
 <figure>
     <kbd>
-    <img  src="./images/generated_tv_script.png" alt="Drawing" style="height: 500 width: 1000px;"/>
+    <img  src="./images/generated_tv_script.png" alt="Drawing" style="height: 600 width: 1000px;"/>
     </kbd>
     <center>Generated fake TV script</center>
 
