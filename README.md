@@ -10,7 +10,7 @@ Build convolutional networks for image recognition, recurrent networks for seque
 
 ## Projects
 
-### Project 1: Dog Breed Classifier
+### [Project 1: Dog Breed Classifier](https://github.com/darrickz/Deep_Learning/tree/master/DLND-Dog-breed-Classifier)
 
 Built Convolutional Neural Networks (CNN) to classify 133 dog breeds using transfer learning
 <table><tr>
@@ -33,7 +33,7 @@ Built Convolutional Neural Networks (CNN) to classify 133 dog breeds using trans
 
 ---
 
-### Project 2: Face Generation
+### [Project 2: Face Generation](https://github.com/darrickz/Deep_Learning/tree/master/DLND-project-face-generation)
 
 Trained a DCGAN on a dataset of faces.Then new images of faces that look as realistic as possble are generated:
 
@@ -42,7 +42,7 @@ Trained a DCGAN on a dataset of faces.Then new images of faces that look as real
     <center>Generated Face</center>
 
 
-### Project 3: Generate TV Script
+### [Project 3: Generate TV Script](https://github.com/darrickz/Deep_Learning/tree/master/DLND-project-tv-script-generation)
 
 
 RNN network is trained to generate Seinfeld TV scripts. The training data are part of the Seinfeld dataset of scripts from 9 seasons. 
@@ -53,7 +53,7 @@ RNN network is trained to generate Seinfeld TV scripts. The training data are pa
     <center>Generated fake TV script</center>
 
 
-### Project 4: CNN Model Deployment
+### [Project 4: CNN Model Deployment](https://github.com/darrickz/Deep_Learning/tree/master/DLND-sagemaker-deployment)
 
 This project is to build a simple web page in which a user can type in a movie review and the trained RNN model behind the scene predicts whether the review is positive or negative. The model is trained on IMDB dataset and deployed using AWS SageMaker
 
