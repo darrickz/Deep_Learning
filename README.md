@@ -37,8 +37,7 @@ Trained a DCGAN on a dataset of faces.Then new images of faces that look as real
     <kbd>
     <img  src="./images/face_generation.png" alt="Drawing" style="height: 500 width: 1000px;"/>
     </kbd>
-    <br>
-    <center>Generated Face</center>
+    ->Generated Face<-
 
 
 ### [Project 3: Generate TV Script](https://github.com/darrickz/Deep_Learning/tree/master/DLND-project-tv-script-generation)
