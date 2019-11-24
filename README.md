@@ -19,6 +19,7 @@ Built Convolutional Neural Networks (CNN) to classify 133 dog breeds using trans
 <figure>
     <kbd>
     <img  src="./images/dog_breed.jpg" alt="Drawing" style="width: 450px;"/>
+        
     <center>Predicted Dog Breed</center>
     </kbd>    
 </figure></td>
@@ -27,6 +28,7 @@ Built Convolutional Neural Networks (CNN) to classify 133 dog breeds using trans
     <kbd>
     <img  src="./images/dog_breed1.jpg" alt="Drawing" style="width: 450px;"/>
     </kbd>
+    
     <center>Closest Predicted Dog Breed</center>
 </figure>
   </td>  </tr></table>
@@ -39,6 +41,7 @@ Trained a DCGAN on a dataset of faces.Then new images of faces that look as real
 
 <figure>
     <img  src="./images/face_generation.png" alt="Drawing" style="height: 500 width: 1000px;"/>
+    
     <center>Generated Face</center>
 
 
