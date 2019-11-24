@@ -37,6 +37,7 @@ Trained a DCGAN on a dataset of faces.Then new images of faces that look as real
     <kbd>
     <img  src="./images/face_generation.png" alt="Drawing" style="height: 500 width: 1000px;"/>
     </kbd>
+    <br>
     <center>Generated Face</center>
 
 
