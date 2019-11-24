@@ -60,7 +60,7 @@ This project is to build a simple web page in which a user can type in a movie r
 
 <figure>
     <img  src="./images/sagemaker-architecture.png" alt="Drawing" style="width: 450px;"/>
-    <center>Sagemaker Architecture</center>
+    <p align="center">  Sagemaker Architecture</p>
 </figure>
 
 
@@ -72,13 +72,13 @@ Example results:
     <kbd>
     <img  src="./images/review1.JPG" alt="Drawing" style="width: 450px;"/>
     </kbd>        
-    <center>Lidar Obstcle Detection</center>
+    <p align="center">Review Predicted as Positive</p>
 </figure></td>
 
 <td><figure>    
     <kbd>
     <img  src="./images/review2.JPG" alt="Drawing" style="width: 450px;"/>
     </kbd>
-    <center>Lidar Obstcle Detection</center>
+    <p align="center">Review Predicted as Negative</p>
 </figure>
   </td>  </tr></table>
