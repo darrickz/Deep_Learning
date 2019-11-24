@@ -42,6 +42,7 @@ Trained a DCGAN on a dataset of faces.Then new images of faces that look as real
    <p align="center">Generated Face</p>
 </figure>
 
+---
 ### [Project 3: Generate TV Script](https://github.com/darrickz/Deep_Learning/tree/master/DLND-project-tv-script-generation)
 
 
@@ -54,6 +55,8 @@ RNN network is trained to generate Seinfeld TV scripts. The training data are pa
     Generated fake TV script
 </p>
 </figure>
+
+---
 ### [Project 4: CNN Model Deployment](https://github.com/darrickz/Deep_Learning/tree/master/DLND-sagemaker-deployment)
 
 This project is to build a simple web page in which a user can type in a movie review and the trained RNN model behind the scene predicts whether the review is positive or negative. The model is trained on IMDB dataset and deployed using AWS SageMaker
