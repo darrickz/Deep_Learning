@@ -18,12 +18,14 @@ Built Convolutional Neural Networks (CNN) to classify 133 dog breeds using trans
 
 <figure>
     <img  src="./images/dog_breed.jpg" alt="Drawing" style="width: 450px;"/>
-    <center>Predicted Dog Breed</center>
+<p align="center">      
+    Predicted Dog Breed
+</p>
 </figure></td>
 
 <td><figure>    
     <img  src="./images/dog_breed1.jpg" alt="Drawing" style="width: 450px;"/>
-    <center>Closest Predicted Dog Breed</center>
+    <p align="center">Closest Predicted Dog Breed</p>
 </figure>
   </td>  </tr></table>
 
@@ -37,8 +39,8 @@ Trained a DCGAN on a dataset of faces.Then new images of faces that look as real
     <kbd>
     <img  src="./images/face_generation.png" alt="Drawing" style="height: 500 width: 1000px;"/>
     </kbd>
-    ->Generated Face<-
-
+   <p align="center">Generated Face</p>
+</figure>
 
 ### [Project 3: Generate TV Script](https://github.com/darrickz/Deep_Learning/tree/master/DLND-project-tv-script-generation)
 
@@ -51,7 +53,7 @@ RNN network is trained to generate Seinfeld TV scripts. The training data are pa
 <p align="center">    
     Generated fake TV script
 </p>
-
+</figure>
 ### [Project 4: CNN Model Deployment](https://github.com/darrickz/Deep_Learning/tree/master/DLND-sagemaker-deployment)
 
 This project is to build a simple web page in which a user can type in a movie review and the trained RNN model behind the scene predicts whether the review is positive or negative. The model is trained on IMDB dataset and deployed using AWS SageMaker
